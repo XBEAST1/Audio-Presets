@@ -377,24 +377,8 @@
             "stereo-link": 100.0,
             "threshold": 0.0
         },
-        "pitch#0": {
-            "anti-alias": false,
-            "bypass": false,
-            "cents": 0.0,
-            "input-gain": 0.0,
-            "octaves": 0.0,
-            "output-gain": 0.0,
-            "overlap-length": 8,
-            "quick-seek": false,
-            "rate-difference": 0.0,
-            "seek-window": 15,
-            "semitones": 0.0,
-            "sequence-length": 40,
-            "tempo-difference": 0.0
-        },
         "plugins_order": [
             "bass_enhancer#0",
-            "pitch#0",
             "stereo_tools#0",
             "equalizer#0",
             "limiter#0"
